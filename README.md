@@ -1,1 +1,1 @@
-Join VenixCoding server to download other plugins (https://discord.gg/CnKJNpAab9)
+Join My server [VenixCoding] to download other plugins (https://discord.gg/CnKJNpAab9)
