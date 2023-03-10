@@ -1,0 +1,6 @@
+name: AnvilRepair
+main: AnvilRepair.Main
+author: 1Devo
+version: 1.0
+commands:
+   repair:
